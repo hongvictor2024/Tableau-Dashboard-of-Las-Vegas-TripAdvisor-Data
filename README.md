@@ -11,5 +11,5 @@ Tools and Visualisations Employed:
 4. Calculated Fields; and
 5. Bar Charts.
 
-The following are screenshots of the project for your ease of viewing:
+The following is the screenshot of the project for your ease of viewing:
 [tripadvisor_screenshot.pdf](https://github.com/hongvictor2024/Tableau-Dashboard-of-Las-Vegas-TripAdvisor-Data/files/14258776/tripadvisor_screenshot.pdf)
